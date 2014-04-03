@@ -1,0 +1,3 @@
+$ cd /opt
+$ git clone https://github.com/morningtec/StellaSDK.git
+$ /opt/StellaSDK/bin/stella-config --install
